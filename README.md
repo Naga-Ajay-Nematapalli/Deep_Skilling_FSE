@@ -10,7 +10,7 @@ This repository contains my \*\*Deep Skilling\*\* weekly practice work focused o
 
 
 
-\* \*\*Week1\*\* – Design Patterns exercises
+\* \*\*Week1\*\* – Design Patterns and DSA exercises
 
 \* \*\*Week2\*\* – Weekly Deep Skilling exercises
 
